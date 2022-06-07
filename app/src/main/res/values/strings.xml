@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">UTS-AKB</string>
+    <string name="hapus">Hapus</string>
+    <string name="buka">Buka</string>
+    <string name="date">Tanggal</string>
+    <string name="simpan">Simpan</string>
+    <string name="batal">Batal</string>
+    <string name="teks">Teks</string>
+    <string name="buat_catatan">Buat Catatan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="nim">10121702</string>
+    <string name="nama">Bina Damareksa</string>
+    <string name="kelas">AKB - 7</string>
+    <string name="email">binadama1997@gmail.com</string>
+    <string name="about">ABOUT</string>
+    <string name="about_text">Aplikasi ini dibangun untuk sebagai penganti UTS AKB tahun ajaran 2021/2022. Dibangun menggunakan Android Studio Chipmunk dan dibuild di smartphone Samsung J7 Pro dengan versi Android Pie. Sudah termasuk PageView.</string>
+</resources>
